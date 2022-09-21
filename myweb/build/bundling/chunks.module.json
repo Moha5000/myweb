@@ -1,0 +1,217 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "f45004ec95ca863a51af",
+  "publicPath": "",
+  "outputPath": "/home/runner/myweb/myweb/build/static",
+  "assetsByChunkName": {
+    "archive": "archive.module.js",
+    "archive~post": "archive~post.module.js",
+    "myweb": "myweb.module.js",
+    "post": "post.module.js"
+  },
+  "assets": [
+    {
+      "name": "archive.module.js",
+      "size": 74813,
+      "chunks": [
+        "archive"
+      ],
+      "chunkNames": [
+        "archive"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "archive~post.module.js",
+      "size": 158113,
+      "chunks": [
+        "archive~post"
+      ],
+      "chunkNames": [
+        "archive~post"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold-LATIN.woff2",
+      "size": 33648,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Bold-LATIN.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold-US-ASCII.woff2",
+      "size": 22248,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Bold-US-ASCII.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold.woff2",
+      "size": 138872,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Bold.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium-LATIN.woff2",
+      "size": 33232,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Medium-LATIN.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium-US-ASCII.woff2",
+      "size": 21828,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Medium-US-ASCII.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium.woff2",
+      "size": 137268,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Medium.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold-LATIN.woff2",
+      "size": 33456,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-SemiBold-LATIN.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold-US-ASCII.woff2",
+      "size": 22032,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-SemiBold-US-ASCII.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold.woff2",
+      "size": 138088,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-SemiBold.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "myweb.module.js",
+      "size": 7706979,
+      "chunks": [
+        "myweb"
+      ],
+      "chunkNames": [
+        "myweb"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "post.module.js",
+      "size": 37776,
+      "chunks": [
+        "post"
+      ],
+      "chunkNames": [
+        "post"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "myweb": {
+      "chunks": [
+        "myweb"
+      ],
+      "assets": [
+        "myweb.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "archive": {
+      "chunks": [
+        "archive~post",
+        "archive"
+      ],
+      "assets": [
+        "archive~post.module.js",
+        "archive.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "post": {
+      "chunks": [
+        "archive~post",
+        "post"
+      ],
+      "assets": [
+        "archive~post.module.js",
+        "post.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "archive",
+      "files": [
+        "archive.module.js"
+      ]
+    },
+    {
+      "id": "archive~post",
+      "files": [
+        "archive~post.module.js"
+      ]
+    },
+    {
+      "id": "myweb",
+      "files": [
+        "myweb.module.js"
+      ]
+    },
+    {
+      "id": "post",
+      "files": [
+        "post.module.js"
+      ]
+    }
+  ]
+}
